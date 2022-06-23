@@ -205,7 +205,7 @@ kubectl create -f fluent-bit-daemonset.yaml
 
 ### 效果截图
 
-[Image: Screen Shot 2022-02-25 at 6.36.24 PM.png]
+![index](https://github.com/jerrywonggithub/fluentbit_in_eks/blob/main/es_index.png)
 
 ### 附录（整合到一份yaml）
 
